@@ -7,3 +7,5 @@
 → Secondly, based on the above findings, we are interested in drawing some statistical  model which explains the dynamics of crime in Chicago over the past 17 years.
 
 →  Using the above statistical model, do some predictions about crime rates after introducing law.
+
+→  Export the crime dataset from  https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data
