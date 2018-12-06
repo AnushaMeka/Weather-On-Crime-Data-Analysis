@@ -9,3 +9,5 @@
 →  Using the above statistical model, do some predictions about crime rates after introducing law.
 
 →  Export the crime dataset from  https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data
+
+→  Got familiar with pandas, numpy, scipy, sklearn, matplotlib, Regression analysis, curve fitting, Hypothesis Testing, Correlation Analysis.
